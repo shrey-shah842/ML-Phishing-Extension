@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset=""UTF-8" />
+    <title>Anti-Phishing Assistant</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+      <h2>Stay safe from phishing</h2>
+      <button id="whitelist">Add to whitelist</button><!--create button to scan the webpage in more detail-->      
+      <button id="showWhitelist">View Whitelist</button>
+      <div class = "whitelist-container" id="whitelistContainer" style="display: none;">
+        
+        <!--this is where the whitelist will e displayed-->
+      </div><!--create div to show the whitelist-->
+      <button id= "chatbot">Speak to Phil</button> <!--create button to open the chatbot-->
+      <p id="result"></p>  <!--used to display if there is phishing, leave as placeholder and later fill in with result-->
+      <script src="popup.js" type="module"></script>
+    </body>
+</html>

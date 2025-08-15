@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+h2 {
+    color: #4caf50;
+}
+button {
+    padding: 10px;
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.show-whitelist{
+    margin: 10px;
+    max-height: 200px;
+    overflow-y: auto;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.delete-button{
+    color: #ff4444;
+    cursor: pointer;
+    padding: 0 8px;
+    font-weight: bold;
+}
+
+.whitelist-item{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+    padding: 8px;
+    border-bottom: 1px solid #eee;
+    align-items: center;
+}

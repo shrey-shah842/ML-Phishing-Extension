@@ -1,0 +1,35 @@
+{
+    "name": "Anti-Phishing Assistant",
+    "description": "Phishing Detection with AI Chatbot Assistant",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+      "activeTab",
+      "storage"
+    ],
+    "host_permissions": [
+      "https://127.0.0.1:5000/predict",
+      "https://chat.botpress.cloud/*",
+      "https://*.whoisxmlapi.com/*"
+    ],
+
+    "content_security_policy": {
+      "extension_pages": "script-src 'self' ; object-src 'self';"
+  },
+
+    "background": {
+      "service_worker": "background.js",
+      "type": "module"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["contentScanner.js"]
+      }
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "img/placeholder.png"
+    }
+  }
+  
