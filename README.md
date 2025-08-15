@@ -1,0 +1,1 @@
+An ML-based phishing detection browser extension. In order to train users alongside providing detection, a chatbot has been tuned to respond to cybersecurity related requests. The API keys and chatbot ID have been removed for this public repository and will need to be added manually to work.
