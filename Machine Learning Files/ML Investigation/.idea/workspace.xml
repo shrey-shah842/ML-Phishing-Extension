@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b5c70c3-6eac-46ab-9cc7-4ea5090a5454" name="Changes" comment="Final version" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shrey-shah842&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;github.com/shrey-shah842/FYP-ML-Model&quot;,
+    &quot;accountId&quot;: &quot;4239b6bd-cd27-471c-ae9e-188de0289b8f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2vvitEcL4fwoo6iMx1RcpDXOMeM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ML model.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Shrey Shah/PycharmProjects/FYP - Phishing Detection",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shrey Shah\PycharmProjects\FYP - Phishing Detection\utilities" />
+      <recent name="C:\Users\Shrey Shah\PycharmProjects\FYP - Phishing Detection\Datasets\Intermediate_Datasets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b5c70c3-6eac-46ab-9cc7-4ea5090a5454" name="Changes" comment="" />
+      <created>1745032161510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745032161510</updated>
+      <workItem from="1745032163184" duration="315000" />
+      <workItem from="1745065345369" duration="26099000" />
+      <workItem from="1745099494252" duration="69741000" />
+      <workItem from="1745369799172" duration="68671000" />
+      <workItem from="1745609855599" duration="67000" />
+      <workItem from="1745609997896" duration="920000" />
+      <workItem from="1745611472388" duration="764000" />
+      <workItem from="1745692081535" duration="118000" />
+      <workItem from="1745698539305" duration="1447000" />
+      <workItem from="1745715830538" duration="11000" />
+      <workItem from="1745716785142" duration="855000" />
+      <workItem from="1746301558052" duration="14810000" />
+      <workItem from="1746420086608" duration="641000" />
+      <workItem from="1746506538545" duration="1406000" />
+    </task>
+    <task id="LOCAL-00001" summary="just adding new dataset">
+      <option name="closed" value="true" />
+      <created>1745099398443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745099398444</updated>
+    </task>
+    <task id="LOCAL-00002" summary="just adding new dataset">
+      <option name="closed" value="true" />
+      <created>1745100895932</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745100895932</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finished dataset preprocessing">
+      <option name="closed" value="true" />
+      <created>1745103580866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745103580866</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed dataset, added some tables">
+      <option name="closed" value="true" />
+      <created>1745196571700</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745196571700</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finished the jupyter notebook for dataset preprocessing">
+      <option name="closed" value="true" />
+      <created>1745273508416</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745273508416</updated>
+    </task>
+    <task id="LOCAL-00006" summary="setting up functions for evaluation of models">
+      <option name="closed" value="true" />
+      <created>1745369767493</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745369767493</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Finished evaluation of models, now to hyperparameter tune">
+      <option name="closed" value="true" />
+      <created>1745456435819</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745456435819</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finished hyperparameter tuning, tuned xgboost proved to be the best at generalisation so it was chosen">
+      <option name="closed" value="true" />
+      <created>1745549136879</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745549136879</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final version --- maybe">
+      <option name="closed" value="true" />
+      <created>1746420106014</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746420106014</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final version">
+      <option name="closed" value="true" />
+      <created>1746507935905</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746507935905</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="just adding new dataset" />
+    <MESSAGE value="finished dataset preprocessing" />
+    <MESSAGE value="fixed dataset, added some tables" />
+    <MESSAGE value="Finished the jupyter notebook for dataset preprocessing" />
+    <MESSAGE value="setting up functions for evaluation of models" />
+    <MESSAGE value="Finished evaluation of models, now to hyperparameter tune" />
+    <MESSAGE value="Finished hyperparameter tuning, tuned xgboost proved to be the best at generalisation so it was chosen" />
+    <MESSAGE value="Final version --- maybe" />
+    <MESSAGE value="Final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final version" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FYP___Phishing_Detection$ML_model.coverage" NAME="ML model Coverage Results" MODIFIED="1745536791356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
